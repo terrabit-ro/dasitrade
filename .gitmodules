@@ -1,0 +1,4 @@
+[submodule "dhongu/deltatech"]
+	path = dhongu/deltatech
+	url = git@github.com:dhongu/deltatech.git
+	branch = 15.0
