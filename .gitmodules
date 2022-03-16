@@ -2,3 +2,8 @@
 	path = dhongu/deltatech
 	url = git@github.com:dhongu/deltatech.git
 	branch = 15.0
+
+[submodule "dhongu/l10n-romania"]
+	path = dhongu/l10n-romania
+	url = git@github.com:dhongu/l10n-romania.git
+	branch = 15.0
