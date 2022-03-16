@@ -17,3 +17,8 @@
 	path = terrabit-ro/bitshop
 	url = git@github.com:terrabit-ro/bitshop.git
 	branch = 15.0
+
+[submodule "dhongu/others_addons"]
+	path = dhongu/others_addons
+	url = git@github.com:dhongu/others_addons.git
+	branch = 15.0
