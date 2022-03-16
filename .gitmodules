@@ -7,3 +7,8 @@
 	path = dhongu/l10n-romania
 	url = git@github.com:dhongu/l10n-romania.git
 	branch = 15.0
+
+[submodule "OCA/l10n-romania"]
+	path = OCA/l10n-romania
+	url = git@github.com:OCA/l10n-romania.git
+	branch = 15.0
