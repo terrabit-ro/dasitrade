@@ -12,3 +12,8 @@
 	path = OCA/l10n-romania
 	url = git@github.com:OCA/l10n-romania.git
 	branch = 15.0
+
+[submodule "terrabit-ro/bitshop"]
+	path = terrabit-ro/bitshop
+	url = git@github.com:terrabit-ro/bitshop.git
+	branch = 15.0
