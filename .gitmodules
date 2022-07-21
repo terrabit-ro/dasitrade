@@ -22,3 +22,8 @@
 	path = dhongu/others_addons
 	url = git@github.com:dhongu/others_addons.git
 	branch = 15.0
+
+[submodule "terrabit-ro/terrabit"]
+	path = terrabit-ro/terrabit
+	url = git@github.com:terrabit-ro/terrabit.git
+	branch = 15.0
